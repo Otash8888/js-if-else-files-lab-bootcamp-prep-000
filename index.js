@@ -15,4 +15,4 @@ var combos = function (arr) {
   }
   console.log(combinations)
 }
-combos
+combos()
